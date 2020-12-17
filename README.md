@@ -10,9 +10,9 @@ This web application is a coding quiz with multiple choice questions. When the s
 
 This web app can be used to test your basic coding knowlgde by answering the questions. Additional questions can be added to this application, since it is very simple to use and rebuild. The following image is the preview of the web application.
 
-![Code Quiz Preview](Assets/Images/screen-shot1.PNG)
+![Code Quiz Preview](assets/images/screen-shot1.PNG)
 
-**Note**: This a link to the actual website: [Password-Generator Official Website](https://alsharifnahas.github.io/Password-Generator/.)
+**Note**: This a link to the actual website: [Code Quiz Official Website](https://alsharifnahas.github.io/Code-Quiz/.)
 
 ## Liecense
 
