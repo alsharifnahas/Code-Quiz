@@ -1,0 +1,16 @@
+.highscores {
+  text-decoration: none;
+  color: purple;
+}
+.answers-container {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
+.btn {
+  background-color: purple;
+  color: white;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
